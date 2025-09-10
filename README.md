@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Farrah 👋  
 
-<!--
-**farraheartfilia/farraheartfilia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc in Computer Science (Information Security and Assurance)**  
+🔐 Passionate about **Cybersecurity, System Development, and UI/UX**  
+💡 Experienced in **Android App Development, Web Apps, and Security Tools**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Final-year student exploring **cybersecurity, software development and AI engineering**  
+- 🛡️ Interested in **project management, data analysis, system design, and risk assessment**  
+- 🌱 Currently learning: **data agent, vulnerability scanning, and data analytics for business insights**  
+- 🤝 Open to roles in **Cybersecurity | Business Analysis | Software Testing | Project Management**  
+
+---
+
+## 📂 Featured Projects
+Here are some of my highlighted works (more in my repos 👇):
+
+🔹 [**INGAT (Dementia Safety System)**](#)  
+Mobile & web solution for assisting caregivers and police in managing dementia-related missing cases.  
+*Android Studio (Java), JavaScript, HTML, CSS, Firebase*   
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Java, JavaScript, HTML, CSS  
+- **Frameworks & Tools**: Android Studio, Firebase, Microsoft Excel, MySQL
+- **Cybersecurity**: Wirehshark, OpenVAS, OSINT Tools
+- **Other**: Figma (UI/UX), Canva, Notion 
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](www.linkedin.com/in/farrah-aziz-77a32b)  
+- 📧 Email: farrahaziz23@gmail.com  
+- 🗂️ [Resume / Portfolio](https://drive.google.com/file/d/1FLFRCwAYjc6Vw5lRtugvEMPlZqUw5a8t/view?usp=sharing)  
