@@ -2,12 +2,12 @@
 
 🎓 **BSc in Computer Science (Information Security and Assurance)**  
 🔐 Passionate about **Cybersecurity, System Development, and UI/UX**  
-💡 Experienced in **Android App Development, Web Apps, and Security Tools**  
+💡 Experienced in **Security Tools, Android App Development, Web Apps and Prototyping**  
 
 ---
 
 ## 🚀 About Me
-- 💻 Final-year student exploring **cybersecurity, software development and AI engineering**  
+- 💻 Final-year student exploring **cybersecurity, software development, and data science**  
 - 🛡️ Interested in **project management, data analysis, system design, and risk assessment**  
 - 🌱 Currently learning: **data agent, vulnerability scanning, and data analytics for business insights**  
 - 🤝 Open to roles in **Cybersecurity | Business Analysis | Software Testing | Project Management**  
